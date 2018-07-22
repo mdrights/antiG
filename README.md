@@ -45,7 +45,7 @@ iso 鏡像請到 [sourceforge](https://sourceforge.net/projects/antig/) 下載�
 ### 使用提示：
 
 - ss 翻牆工具，請在 `/etc/shadowsocks/config.json` 填寫自己的服務器的相關信息。這樣點擊菜單裏的ss條目才可正確運行。由於live 系統無法保存配置，可以自己保存一份 config.json 覆蓋它。也可以從命令行執行： `sslocal -c <your config file>` 。    
-- 更多使用指導請閱讀 [《用戶手冊》](https://github.com/mdrights/LiveSlak/blob/mdrights/LiveSlak-Users-Guide.md)
+- 更多使用指導請閱讀 [《用戶手冊》](https://github.com/mdrights/antiG/blob/master/antiG-User-Guide.md)
 
 
 Happy hacking
