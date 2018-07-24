@@ -7,7 +7,12 @@ Yet another live OS to resist Surveillance/Censorship and to protect digital pri
 
 `antiG` 的意思是 GFW 中的 G （可能還會有 antiF、antiW 呢）。  
 
-Live 型系統的好處就不說了，之前已介紹過：[LiveSlak 系統介紹](https://mdrights.github.io/os-observe/Liveslak-intro/)。
+Live 型系統的好處就不說了，之前已介紹過：[以前的 live 系統介紹](https://mdrights.github.io/os-observe/Liveslak-intro/)。
+
+釋出 `0.0.1_rc1` 版，還有不少功能/軟件會陸續添加 :^)
+
+### 下載
+iso 鏡像請到 [sourceforge](https://sourceforge.net/projects/antig/) 下載，歡迎各種需求/問題，請到 [GitHub](https://github.com/mdrights/antiG) 發 issue，我會儘量滿足關於隱私保護、防範攻擊的需求~！
 
 ### 主要特性： 
 
@@ -38,9 +43,6 @@ Live 型系統的好處就不說了，之前已介紹過：[LiveSlak 系統介�
 	- Torchat（基於 Tor 的聊天室）
 	- uTox （基於 P2P 的去中心化加密通訊工具）
 
-準備釋出 `0.0.1_rc1` 版，還有不少功能/軟件會陸續添加 :^)
-
-iso 鏡像請到 [sourceforge](https://sourceforge.net/projects/antig/) 下載，歡迎各種需求/問題，請到 [GitHub](https://github.com/mdrights/antiG) 發 issue，我會儘量滿足關於隱私保護、防範攻擊的需求~！
 
 ### 使用提示：
 
